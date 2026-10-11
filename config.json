@@ -1,0 +1,481 @@
+{
+  "plz": "82166",
+  "ebay_marketplaces": [
+    "EBAY_DE",
+    "EBAY_AT",
+    "EBAY_FR",
+    "EBAY_IT",
+    "EBAY_ES",
+    "EBAY_NL",
+    "EBAY_BE",
+    "EBAY_IE"
+  ],
+  "excluir_subastas_con_sofort_kaufen": false,
+  "preferir_referencia_automatica": true,
+  "hours_ahead": 3,
+  "min_value": 50,
+  "min_discount": 0.25,
+  "ref_minutes_left": 60,
+  "ref_min_bids": 5,
+  "ref_min_samples": 3,
+  "max_results": 40,
+  "skip_already_sent": true,
+  "send_when_empty": false,
+  "kleinanzeigen": {
+    "activo": true,
+    "solo_con_envio": false,
+    "delay_min_s": 4,
+    "delay_max_s": 8
+  },
+  "exclude_global": [
+    "defekt",
+    "Bastler",
+    "Ersatzteil",
+    "Attrappe",
+    "Dummy",
+    "Tausch",
+    "suche",
+    "gesucht",
+    "kaputt",
+    "Wasserschaden",
+    "gesperrt",
+    "iCloud",
+    "FRP",
+    "Blacklist",
+    "defect",
+    "broken",
+    "for parts",
+    "spares",
+    "faulty",
+    "locked",
+    "défectueux",
+    "pour pièces",
+    "en panne",
+    "difettoso",
+    "per ricambi",
+    "guasto",
+    "non funzionante",
+    "rotto",
+    "averiado",
+    "para piezas",
+    "roto",
+    "no funciona",
+    "kapot",
+    "onderdelen",
+    "defecte",
+    "nur Karton",
+    "Leerkarton",
+    "OVP leer",
+    "nur Foto",
+    "nur Bild",
+    "Mainboard",
+    "Platine"
+  ],
+  "searches": [
+    {
+      "name": "Samsung Galaxy S26 Ultra",
+      "query": "Samsung Galaxy S26 Ultra",
+      "ka_query": "galaxy S26 ultra",
+      "require": [
+        "s26",
+        "ultra"
+      ],
+      "valor_referencia": 780,
+      "min_price": 450,
+      "condition_ids": [
+        1000,
+        1500,
+        2010,
+        2020,
+        2030,
+        3000
+      ]
+    },
+    {
+      "name": "Samsung Galaxy S25 Ultra",
+      "query": "Samsung Galaxy S25 Ultra",
+      "ka_query": "galaxy S25 ultra",
+      "require": [
+        "s25",
+        "ultra"
+      ],
+      "valor_referencia": 620,
+      "min_price": 350,
+      "condition_ids": [
+        1000,
+        1500,
+        2010,
+        2020,
+        2030,
+        3000
+      ]
+    },
+    {
+      "name": "Samsung Galaxy S24 Ultra",
+      "query": "Samsung Galaxy S24 Ultra",
+      "ka_query": "galaxy S24 ultra",
+      "require": [
+        "s24",
+        "ultra"
+      ],
+      "valor_referencia": 480,
+      "min_price": 250,
+      "condition_ids": [
+        1000,
+        1500,
+        2010,
+        2020,
+        2030,
+        3000
+      ]
+    },
+    {
+      "name": "Samsung Galaxy S23 Ultra",
+      "query": "Samsung Galaxy S23 Ultra",
+      "ka_query": "galaxy S23 ultra",
+      "require": [
+        "s23",
+        "ultra"
+      ],
+      "valor_referencia": 360,
+      "min_price": 180,
+      "condition_ids": [
+        1000,
+        1500,
+        2010,
+        2020,
+        2030,
+        3000
+      ]
+    },
+    {
+      "name": "Nintendo Switch 2",
+      "query": "Nintendo Switch 2 Konsole",
+      "ka_query": "nintendo switch 2 konsole",
+      "require": [
+        "switch 2"
+      ],
+      "valor_referencia": 400,
+      "min_price": 250,
+      "exclude": [
+        "OLED",
+        "Lite",
+        "V2",
+        "HAC-001"
+      ]
+    },
+    {
+      "name": "RTX 5090",
+      "query": "RTX 5090",
+      "ka_query": "rtx 5090",
+      "require": [
+        "5090"
+      ],
+      "valor_referencia": 2500,
+      "min_price": 1200,
+      "exclude": [
+        "Laptop",
+        "Notebook",
+        "Gaming PC",
+        "Gaming-PC",
+        "Komplett-PC",
+        "Komplettsystem",
+        "Rechner",
+        "Desktop-PC",
+        "Wasserkühler",
+        "Waterblock",
+        "Wasserblock",
+        "Backplate",
+        "Riser"
+      ]
+    },
+    {
+      "name": "RTX 5080",
+      "query": "RTX 5080",
+      "ka_query": "rtx 5080",
+      "require": [
+        "5080"
+      ],
+      "valor_referencia": 950,
+      "min_price": 500,
+      "exclude": [
+        "Laptop",
+        "Notebook",
+        "Gaming PC",
+        "Gaming-PC",
+        "Komplett-PC",
+        "Komplettsystem",
+        "Rechner",
+        "Desktop-PC",
+        "Wasserkühler",
+        "Waterblock",
+        "Wasserblock",
+        "Backplate",
+        "Riser"
+      ]
+    },
+    {
+      "name": "RTX 5070 Ti",
+      "query": "RTX 5070 Ti",
+      "ka_query": "rtx 5070 ti",
+      "require": [
+        "5070 ti"
+      ],
+      "valor_referencia": 750,
+      "min_price": 400,
+      "exclude": [
+        "Laptop",
+        "Notebook",
+        "Gaming PC",
+        "Gaming-PC",
+        "Komplett-PC",
+        "Komplettsystem",
+        "Rechner",
+        "Desktop-PC",
+        "Wasserkühler",
+        "Waterblock",
+        "Wasserblock",
+        "Backplate",
+        "Riser"
+      ]
+    },
+    {
+      "name": "RTX 5070",
+      "query": "RTX 5070",
+      "ka_query": "rtx 5070",
+      "require": [
+        "5070"
+      ],
+      "valor_referencia": 500,
+      "min_price": 280,
+      "exclude": [
+        "Laptop",
+        "Notebook",
+        "Gaming PC",
+        "Gaming-PC",
+        "Komplett-PC",
+        "Komplettsystem",
+        "Rechner",
+        "Desktop-PC",
+        "Wasserkühler",
+        "Waterblock",
+        "Wasserblock",
+        "Backplate",
+        "Riser"
+      ],
+      "exclude_exact": [
+        "Ti"
+      ]
+    },
+    {
+      "name": "RTX 4090",
+      "query": "RTX 4090",
+      "ka_query": "rtx 4090",
+      "require": [
+        "4090"
+      ],
+      "valor_referencia": 1700,
+      "min_price": 900,
+      "exclude": [
+        "Laptop",
+        "Notebook",
+        "Gaming PC",
+        "Gaming-PC",
+        "Komplett-PC",
+        "Komplettsystem",
+        "Rechner",
+        "Desktop-PC",
+        "Wasserkühler",
+        "Waterblock",
+        "Wasserblock",
+        "Backplate",
+        "Riser"
+      ]
+    },
+    {
+      "name": "RTX 4080 / 4080 Super",
+      "query": "RTX 4080",
+      "ka_query": "rtx 4080",
+      "require": [
+        "4080"
+      ],
+      "valor_referencia": 700,
+      "min_price": 400,
+      "exclude": [
+        "Laptop",
+        "Notebook",
+        "Gaming PC",
+        "Gaming-PC",
+        "Komplett-PC",
+        "Komplettsystem",
+        "Rechner",
+        "Desktop-PC",
+        "Wasserkühler",
+        "Waterblock",
+        "Wasserblock",
+        "Backplate",
+        "Riser"
+      ]
+    },
+    {
+      "name": "RTX 4070 Ti Super",
+      "query": "RTX 4070 Ti Super",
+      "ka_query": "rtx 4070 ti super",
+      "require": [
+        "4070 ti super"
+      ],
+      "valor_referencia": 600,
+      "min_price": 350,
+      "exclude": [
+        "Laptop",
+        "Notebook",
+        "Gaming PC",
+        "Gaming-PC",
+        "Komplett-PC",
+        "Komplettsystem",
+        "Rechner",
+        "Desktop-PC",
+        "Wasserkühler",
+        "Waterblock",
+        "Wasserblock",
+        "Backplate",
+        "Riser"
+      ]
+    },
+    {
+      "name": "RTX 4070 Super",
+      "query": "RTX 4070 Super",
+      "ka_query": "rtx 4070 super",
+      "require": [
+        "4070 super"
+      ],
+      "valor_referencia": 480,
+      "min_price": 280,
+      "exclude": [
+        "Laptop",
+        "Notebook",
+        "Gaming PC",
+        "Gaming-PC",
+        "Komplett-PC",
+        "Komplettsystem",
+        "Rechner",
+        "Desktop-PC",
+        "Wasserkühler",
+        "Waterblock",
+        "Wasserblock",
+        "Backplate",
+        "Riser"
+      ],
+      "exclude_exact": [
+        "Ti"
+      ]
+    },
+    {
+      "name": "RX 9070 XT",
+      "query": "RX 9070 XT",
+      "ka_query": "rx 9070 xt",
+      "require": [
+        "9070 xt"
+      ],
+      "valor_referencia": 650,
+      "min_price": 350,
+      "exclude": [
+        "Laptop",
+        "Notebook",
+        "Gaming PC",
+        "Gaming-PC",
+        "Komplett-PC",
+        "Komplettsystem",
+        "Rechner",
+        "Desktop-PC",
+        "Wasserkühler",
+        "Waterblock",
+        "Wasserblock",
+        "Backplate",
+        "Riser"
+      ]
+    },
+    {
+      "name": "RX 9070",
+      "query": "RX 9070",
+      "ka_query": "rx 9070",
+      "require": [
+        "9070"
+      ],
+      "valor_referencia": 520,
+      "min_price": 300,
+      "exclude": [
+        "Laptop",
+        "Notebook",
+        "Gaming PC",
+        "Gaming-PC",
+        "Komplett-PC",
+        "Komplettsystem",
+        "Rechner",
+        "Desktop-PC",
+        "Wasserkühler",
+        "Waterblock",
+        "Wasserblock",
+        "Backplate",
+        "Riser"
+      ],
+      "exclude_exact": [
+        "XT"
+      ]
+    },
+    {
+      "name": "RX 7900 XTX",
+      "query": "RX 7900 XTX",
+      "ka_query": "rx 7900 xtx",
+      "require": [
+        "7900 xtx"
+      ],
+      "valor_referencia": 700,
+      "min_price": 400,
+      "exclude": [
+        "Laptop",
+        "Notebook",
+        "Gaming PC",
+        "Gaming-PC",
+        "Komplett-PC",
+        "Komplettsystem",
+        "Rechner",
+        "Desktop-PC",
+        "Wasserkühler",
+        "Waterblock",
+        "Wasserblock",
+        "Backplate",
+        "Riser"
+      ]
+    },
+    {
+      "name": "RX 7900 XT",
+      "query": "RX 7900 XT",
+      "ka_query": "rx 7900 xt",
+      "require": [
+        "7900 xt"
+      ],
+      "valor_referencia": 550,
+      "min_price": 300,
+      "exclude": [
+        "Laptop",
+        "Notebook",
+        "Gaming PC",
+        "Gaming-PC",
+        "Komplett-PC",
+        "Komplettsystem",
+        "Rechner",
+        "Desktop-PC",
+        "Wasserkühler",
+        "Waterblock",
+        "Wasserblock",
+        "Backplate",
+        "Riser"
+      ],
+      "exclude_exact": [
+        "XTX",
+        "GRE"
+      ]
+    }
+  ]
+}

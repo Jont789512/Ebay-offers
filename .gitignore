@@ -1,0 +1,8 @@
+credenciales.txt
+credenciales_plantilla.txt
+.env
+log.txt
+ofertas.html
+__pycache__/
+*.bat
+*.vbs
